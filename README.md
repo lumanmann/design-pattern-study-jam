@@ -53,7 +53,7 @@ CMoney 教育中心
 |---    |---|---    |---       |--- |---        |
 | ch. 1   | What are Design Patterns?| 08/18 |0.5hr | Natalie |[slides](https://hackmd.io/@lumanman/rJKB-tSNS)|
 | ch. 2   | How to Read a Class Diagram  | 08/18 |  0.5hr | Natalie |[slides](https://hackmd.io/@lumanman/rJsmNTHVr)|
-| ch. 3   | Model-View-Controller Pattern | 08/18 |  1hr | Tank |[slides]|
+| ch. 3   | Model-View-Controller Pattern | 08/18 |  1hr | Tank |[slides](Ch.3-MVC/Chapter-3-MVC.key)|
 | ch. 4   | Delegation Pattern  | 08/25 |  1hr | 泉 | |
 | ch. 5   | Strategy Pattern  | 08/25 |  1hr | Hank | |
 | ch. 6   | Singleton Pattern | 09/08 |  1hr | Danny | |
