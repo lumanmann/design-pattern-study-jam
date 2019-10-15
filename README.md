@@ -56,12 +56,12 @@ CMoney 教育中心
 | ch. 3   | Model-View-Controller Pattern | 08/18 |  1hr | Tank |[slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.3-MVC)|
 | ch. 4   | Delegation Pattern  | 08/25 |  1hr | 泉 | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.4-Delegate) |
 | ch. 5   | Strategy Pattern  | 08/25 |  1hr | Hank |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.5-Strategy%20Pattern) |
-| ch. 6   | Singleton Pattern | 09/08 |  1hr | Danny |  [slides] |
+| ch. 6   | Singleton Pattern | 09/08 |  1hr | Danny |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.6-Singleton%20Pattern) |
 | ch. 7   | Memento Pattern  | 09/08|  1hr | Jack Xu |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.7-Memento%20Pattern) |
 | ch. 8   | Observer Pattern  | 09/29|  1hr | Jack | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.8-Observer%20Pattern) |
 | ch. 9   | Builder Pattern  | 09/29 |  1hr | Jake |[slides] |
 | ch. 10   | Model-View-ViewModel Pattern | 10/06 |  1hr |Jake | [slides]|
-| ch. 11   | Factory Pattern | 10/06|  1hr | Evelyn | [slides] |
+| ch. 11   | Factory Pattern | 10/06|  1hr | Evelyn | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.11-Factory%20Pattern) |
 | ch. 12   | Adapter Pattern | 10/20 |  1hr | Tank | [slides] |
 | ch. 13   | Iterator Pattern | 10/20 |  1hr | Natalie | [slides] |
 | ch. 14   | Prototype Pattern  | 11/03 |  1hr | 健豪 | [slides] |
