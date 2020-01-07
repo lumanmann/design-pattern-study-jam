@@ -70,7 +70,7 @@ CMoney 教育中心
 | ch. 17   | Facade Pattern  | 11/17 |  1hr | Michael |[slides] |
 | ch. 18   | Flyweight Pattern  | 12/01|  1hr | Annie | [slides] |
 | ch. 19   | Mediator Pattern  | 12/01 |  1hr | Jack | [slides] |
-| ch. 20   | Composite Pattern  | 12/15 |  1hr | Ohlulu |[slides] |
+| ch. 20   | Composite Pattern  | 12/15 |  1hr | Ohlulu |[slides]([https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.9-Builder%20Pattern](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.20-Composite%20Pattern)) |
 | ch. 21   | Command Pattern | 12/15 |  1hr | Michael |[slides] |
 | ch. 22   | Chain of Responsibility Pattern  |12/29 |  1hr | Bob |[slides] |
 | ch. 23   | Coordinator Pattern  | 12/29 |  1hr | Bob | [slides] |
