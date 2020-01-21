@@ -53,27 +53,27 @@ CMoney 教育中心
 |---    |---|---    |---       |--- |---        |
 | ch. 1   | What are Design Patterns?| 08/18 |0.5hr | Natalie |[slides](https://hackmd.io/@lumanman/rJKB-tSNS)|
 | ch. 2   | How to Read a Class Diagram  | 08/18 |  0.5hr | Natalie |[slides](https://hackmd.io/@lumanman/rJsmNTHVr)|
-| ch. 3   | Model-View-Controller Pattern | 08/18 |  1hr | Tank |[slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.3-MVC)|
-| ch. 4   | Delegation Pattern  | 08/25 |  1hr | 泉 | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.4-Delegate) |
-| ch. 5   | Strategy Pattern  | 08/25 |  1hr | Hank |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.5-Strategy%20Pattern) |
-| ch. 6   | Singleton Pattern | 09/08 |  1hr | Danny |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.6-Singleton%20Pattern) |
-| ch. 7   | Memento Pattern  | 09/08|  1hr | Jack Xu |  [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.7-Memento%20Pattern) |
-| ch. 8   | Observer Pattern  | 09/29|  1hr | Jack | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.8-Observer%20Pattern) |
-| ch. 9   | Builder Pattern  | 09/29 |  1hr | Jake |[slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.9-Builder%20Pattern) |
-| ch. 10   | Model-View-ViewModel Pattern | 10/06 |  1hr |Jake | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.10%20Model-View-ViewModel%20Pattern)|
-| ch. 11   | Factory Pattern | 10/06|  1hr | Evelyn | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.11-Factory%20Pattern) |
-| ch. 12   | Adapter Pattern | 10/20 |  1hr | Tank | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.12-AdapterPattern) |
-| ch. 13   | Iterator Pattern | 10/20 |  1hr | Natalie | [slides](https://github.com/lumanmann/design_pattern_study_jam/tree/master/Ch.13-%20Iterator%20Pattern) |
-| ch. 14   | Prototype Pattern  | 11/03 |  1hr | 健豪 | [slides] |
-| ch. 15   | State Pattern  | 11/03|  1hr | Evelyn | [slides] |
+| ch. 3   | Model-View-Controller Pattern | 08/18 |  1hr | Tank |[slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.03%20MVC)|
+| ch. 4   | Delegation Pattern  | 08/25 |  1hr | 泉 | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.04%20Delegate) |
+| ch. 5   | Strategy Pattern  | 08/25 |  1hr | Hank |  [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.05%20Strategy%20Pattern) |
+| ch. 6   | Singleton Pattern | 09/08 |  1hr | Danny |  [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.06%20Singleton%20Pattern) |
+| ch. 7   | Memento Pattern  | 09/08|  1hr | Jack Xu |  [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.07%20Memento%20Pattern) |
+| ch. 8   | Observer Pattern  | 09/29|  1hr | Jack | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.08%20Observer%20Pattern) |
+| ch. 9   | Builder Pattern  | 09/29 |  1hr | Jake |[slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.09%20Builder%20Pattern) |
+| ch. 10   | Model-View-ViewModel Pattern | 10/06 |  1hr |Jake | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.10%20Model-View-ViewModel%20Pattern)|
+| ch. 11   | Factory Pattern | 10/06|  1hr | Evelyn | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.11%20Factory%20Pattern) |
+| ch. 12   | Adapter Pattern | 10/20 |  1hr | Tank | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.12%20AdapterPattern) |
+| ch. 13   | Iterator Pattern | 10/20 |  1hr | Natalie | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.13%20Iterator%20Pattern) |
+| ch. 14   | Prototype Pattern  | 01/05 |  1hr | 健豪 | [slides] |
+| ch. 15   | State Pattern  | 01/05 |  1hr | Evelyn | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.15%20State%20Pattern) |
 | ch. 16   | Multicast Delegate Pattern  | 11/17 |  1hr | Starly| [slides] |
 | ch. 17   | Facade Pattern  | 11/17 |  1hr | Michael |[slides] |
-| ch. 18   | Flyweight Pattern  | 12/01|  1hr | Annie | [slides] |
-| ch. 19   | Mediator Pattern  | 12/01 |  1hr | Jack | [slides] |
-| ch. 20   | Composite Pattern  | 12/15 |  1hr | Ohlulu |[slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.20-Composite%20Pattern) |
+| ch. 18   | Flyweight Pattern  | 01/19 |  1hr | Annie | [slides] |
+| ch. 19   | Mediator Pattern  | 01/19 |  1hr | Bob | [slides] |
+| ch. 20   | Composite Pattern  | 12/15 |  1hr | Ohlulu |[slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.20%20Composite%20Pattern) |
 | ch. 21   | Command Pattern | 12/15 |  1hr | Michael |[slides] |
-| ch. 22   | Chain of Responsibility Pattern  |12/29 |  1hr | Bob |[slides] |
-| ch. 23   | Coordinator Pattern  | 12/29 |  1hr | Bob | [slides] |
+| ch. 22   | Chain of Responsibility Pattern  |12/29 |  1hr | Bob |[slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.22%20Chain-of-Responsibility)|
+| ch. 23   | Coordinator Pattern  | 12/29 |  1hr | Bob | [slides](https://github.com/lumanmann/design-pattern-study-jam/tree/master/Ch.23%20Coordinator%20Pattern) |
 
 
 
